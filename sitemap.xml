@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<?xml-stylesheet type="text/xsl" href="https://drdmango.github.io/yossarians-interim1/sitemap.xsl"?>
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
+<url>
+<loc>https://drdmango.github.io/yossarians-interim1/</loc>
+</url>
+<url>
+<loc>https://drdmango.github.io/yossarians-interim1/one-of-my-favorite-images.html</loc>
+<lastmod>2025-03-19T22:45:50-07:00</lastmod>
+<image:image>
+<image:loc>https://drdmango.github.io/yossarians-interim1/media/posts/20/Harlem_condemned_building.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+<url>
+<loc>https://drdmango.github.io/yossarians-interim1/the-crowd-is-untruth.html</loc>
+<lastmod>2025-03-20T10:29:37-07:00</lastmod>
+</url>
+<url>
+<loc>https://drdmango.github.io/yossarians-interim1/the-problem-with-youtube-history-and-philosophy.html</loc>
+<lastmod>2025-03-14T21:18:35-07:00</lastmod>
+</url>
+<url>
+<loc>https://drdmango.github.io/yossarians-interim1/why-is-this-boston-tenement-so-lonely.html</loc>
+<lastmod>2025-03-19T12:37:06-07:00</lastmod>
+<image:image>
+<image:loc>https://drdmango.github.io/yossarians-interim1/media/posts/14/Causeway_Street_Elevated_construction_September_1911.jpg</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+<image:image>
+<image:loc>https://drdmango.github.io/yossarians-interim1/media/posts/14/101-TWITTER2.png</image:loc>
+<image:title><![CDATA[]]></image:title>
+</image:image>
+</url>
+</urlset>

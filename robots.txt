@@ -1,0 +1,3 @@
+User-agent: *
+Disallow:
+Sitemap: https://drdmango.github.io/yossarians-interim1/sitemap.xml
